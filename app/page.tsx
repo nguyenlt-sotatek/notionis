@@ -3,7 +3,7 @@ import { Hero } from "@/components/hero"
 import { Products } from "@/components/products"
 import { Footer } from "@/components/footer"
 
-export default function Page() {
+export default function Home() {
   return (
     <div className="flex min-h-screen flex-col">
       <Header />
