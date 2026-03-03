@@ -1,2 +1,0 @@
-# notionis
-notionis.work
